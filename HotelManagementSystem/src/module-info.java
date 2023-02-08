@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Chotu
+ *
+ */
+module HotelManagementSystem {
+}
